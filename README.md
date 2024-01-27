@@ -52,6 +52,20 @@
  ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=plastic&logo=Coursera&logoColor=white)
  ![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=plastic&logo=Duolingo&logoColor=white)
  ![Codewars](https://img.shields.io/badge/Codewars-B1361Estyle=plastic&logo=codewars&logoColor=grey)
+ <br/>
+ ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white)
+ ![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=plastic&logo=Skype&logoColor=white)
+ ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)
+ ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white)
+ ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)
+ ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=plastic&logo=Facebook&logoColor=white)
+ ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=plastic&logo=reddit&logoColor=white)
+ ![Viber](https://img.shields.io/badge/Viber-8B66A9?style=plastic&logo=viber&logoColor=white)
+ ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=plastic&logo=whatsapp&logoColor=white)
+ ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=plastic&logo=zoom&logoColor=white)
+ 
+ 
+ 
  
 
 
