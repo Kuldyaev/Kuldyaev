@@ -35,7 +35,6 @@
  ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=plastic&logo=atom&logoColor=white)
  ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=plastic&logo=notepad%2b%2b&logoColor=black)
  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white)
- 
  <br/>
  ![Udacity](https://img.shields.io/badge/Udacity-grey?style=plastic&logo=udacity&logoColor=15B8E6)
  ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=plastic&logo=Coursera&logoColor=white)
