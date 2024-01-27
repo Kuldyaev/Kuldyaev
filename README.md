@@ -27,10 +27,10 @@
  
  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white)
 
- ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
- ![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
- ![Udacity](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6)
- ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
+ ![Udacity](https://img.shields.io/badge/Udacity-grey?style=plastic&logo=udacity&logoColor=15B8E6)
+ ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=plastic&logo=Coursera&logoColor=white)
+ ![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=plastic&logo=Duolingo&logoColor=white)
+ ![Codewars](https://img.shields.io/badge/Codewars-B1361Estyle=plastic&logo=codewars&logoColor=grey)
  
 
 
