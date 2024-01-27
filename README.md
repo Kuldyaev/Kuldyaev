@@ -63,15 +63,8 @@
  ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=plastic&logo=reddit&logoColor=white)
  ![Viber](https://img.shields.io/badge/Viber-8B66A9?style=plastic&logo=viber&logoColor=white)
  ![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=plastic&logo=Skype&logoColor=white)
- 
- 
- 
- 
- 
-
-
- 
-# 📊 GitHub Stats:
+  
+## 📊 GitHub Stats:
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=Kuldyaev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>   
 -->
