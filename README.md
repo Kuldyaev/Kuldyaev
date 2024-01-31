@@ -55,7 +55,7 @@
  ![Codewars](https://img.shields.io/badge/Codewars-B1361Estyle=plastic&logo=codewars&logoColor=grey)
  ## 🌐 Socials:
  ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white)
- <a class="blank center" href="www.instagram.com" target="_blank">
+ <a class="blank center" href="http://www.instagram.com" target="_blank">
  ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white)
  </a>
  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)
