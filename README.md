@@ -43,7 +43,9 @@
  <a href="https://flask.palletsprojects.com" target="_blank" class="blank center" >
   ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white)
  </a>
+ <a  href="https://numpy.org" target="_blank" class="blank center"  >
  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
+ </a>
  <br/>
  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white)
  ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=plastic&logo=Raspberry-Pi)
