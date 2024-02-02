@@ -51,7 +51,9 @@
  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white)
  ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=plastic&logo=atom&logoColor=white)
  ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=plastic&logo=notepad%2b%2b&logoColor=black)
- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
+ <a class="blank center" href="https://github.com/Kuldyaev" target="_blank" >
+   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
+ </a>
  <br/>
  ![Udacity](https://img.shields.io/badge/Udacity-grey?style=plastic&logo=udacity&logoColor=15B8E6)
  <a class="blank center" href="https://www.duolingo.com/profile/Slava7168243" target="_blank">
