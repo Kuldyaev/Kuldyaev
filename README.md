@@ -63,7 +63,9 @@
  <a class="blank center" href="https://www.duolingo.com/profile/Slava7168243" target="_blank">
    ![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=plastic&logo=Duolingo&logoColor=white)
  </a>
+ <a href="https://www.coursera.org/account/accomplishments/verify/KDXW39NNTV8M?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course" target="_blank">
  ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=plastic&logo=Coursera&logoColor=white)
+ </a>
  ![Codewars](https://img.shields.io/badge/Codewars-B1361Estyle=plastic&logo=codewars&logoColor=grey)
  ## 🌐 Socials:
  ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white)
