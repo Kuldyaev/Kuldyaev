@@ -57,7 +57,9 @@
    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
  </a>
  <br/>
+ <a ref="https://www.udacity.com/certificate/LUJP5RRK" target="_blank">
  ![Udacity](https://img.shields.io/badge/Udacity-grey?style=plastic&logo=udacity&logoColor=15B8E6)
+ </a>
  <a class="blank center" href="https://www.duolingo.com/profile/Slava7168243" target="_blank">
    ![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=plastic&logo=Duolingo&logoColor=white)
  </a>
