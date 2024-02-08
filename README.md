@@ -60,7 +60,7 @@
  <a href="https://www.udacity.com/certificate/LUJP5RRK" target="_blank">
  ![Udacity](https://img.shields.io/badge/Udacity-grey?style=plastic&logo=udacity&logoColor=15B8E6)
  </a>
- <a class="blank center" href="https://www.duolingo.com/profile/Slava7168243" target="_blank">
+ <a class="blank center" href="https://www.duolingo.com" target="_blank">
    ![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=plastic&logo=Duolingo&logoColor=white)
  </a>
  <a href="https://www.coursera.org/account/accomplishments/verify/KDXW39NNTV8M?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course" target="_blank">
@@ -81,7 +81,7 @@
  ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=plastic&logo=Facebook&logoColor=white)
  ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=plastic&logo=reddit&logoColor=white)
  ![Viber](https://img.shields.io/badge/Viber-8B66A9?style=plastic&logo=viber&logoColor=white)
- <a href="skype:Slavalion5" >
+ <a href="skype:Slavalion5" target="_blank" >
  ![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=plastic&logo=Skype&logoColor=white)
  </a>
   
