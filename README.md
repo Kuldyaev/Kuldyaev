@@ -62,7 +62,7 @@
  <a href="https://www.udacity.com/certificate/LUJP5RRK" target="_blank">
  ![Udacity](https://img.shields.io/badge/Udacity-grey?style=plastic&logo=udacity&logoColor=15B8E6)
  </a>
- <a class="blank center" href=https://www.duolingo.com/profile/Slava_lion" target="_blank">
+ <a class="blank center" href="https://www.duolingo.com/profile/Slava_lion" target="_blank">
    ![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=plastic&logo=Duolingo&logoColor=white)
  </a>
  <a href="https://www.coursera.org/account/accomplishments/verify/KDXW39NNTV8M?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course" target="_blank">
