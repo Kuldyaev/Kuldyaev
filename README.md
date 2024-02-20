@@ -40,7 +40,9 @@
  <br/> 
  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white)
  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white)
+ <a href="https://vitejs.dev" target="_blank">
  ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white)
+ </a>
  <br/> 
  ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
  <a href="https://www.djangoproject.com" target="_blank" class="blank center">
