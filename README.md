@@ -29,7 +29,9 @@
  <a href="https://swagger.io" target="_blank">
  ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=plastic&logo=swagger&logoColor=white)
  </a>
+ <a href="https://git-scm.com" target="_blank">
  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+ </a>
  <a href="https://www.docker.com" target="_blank">
  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
  </a>
