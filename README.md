@@ -50,7 +50,9 @@
  ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white)
  </a>
  <br/> 
+ <a htef="https://www.python.org" target="_blank">
  ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+ </a>
  <a href="https://www.djangoproject.com" target="_blank" class="blank center">
    ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white)
  </a>
