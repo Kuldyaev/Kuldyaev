@@ -50,8 +50,7 @@
  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white)
  <a href="https://vitejs.dev" target="_blank">
  ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white)
- </a>
- <br/> 
+ </a> <br/> 
  <a htef="https://www.python.org" target="_blank">
  ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
  </a>
@@ -63,8 +62,7 @@
  </a>
  <a  href="https://numpy.org" target="_blank" class="blank center"  >
  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
- </a>
- <br/>
+ </a> <br/>
  <a href="https://www.arduino.cc" target="_blank">
  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white)
  </a>
@@ -77,8 +75,7 @@
  </a>
  <a class="blank center" href="https://github.com/Kuldyaev" target="_blank" >
    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
- </a>
- <br/>
+ </a> <br/>
  <a href="https://www.udacity.com/certificate/LUJP5RRK" target="_blank">
  ![Udacity](https://img.shields.io/badge/Udacity-grey?style=plastic&logo=udacity&logoColor=15B8E6)
  </a>
