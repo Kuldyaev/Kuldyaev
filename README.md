@@ -93,6 +93,7 @@
  <a href="https://www.codewars.com/users/Kuldyaev" target="_blank">
  ![Codewars](https://img.shields.io/badge/Codewars-B1361Estyle=plastic&logo=codewars&logoColor=grey)
  </a>
+ <br/> 
  ![Codewars](https://www.codewars.com/users/Kuldyaev/badges/micro)
  ## 🌐 Socials:
  ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white)
