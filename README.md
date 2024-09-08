@@ -91,7 +91,7 @@
  ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=plastic&logo=Coursera&logoColor=white)
  </a>
  <a href="https://www.codewars.com/users/Kuldyaev" target="_blank">
- ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=plastic&logo=codewars&logoColor=grey)
+ ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=plastic&logo=codewars&logoColor=white)
  </a>
  <br/> 
  ![Codewars](https://www.codewars.com/users/Kuldyaev/badges/micro)
