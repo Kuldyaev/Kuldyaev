@@ -91,6 +91,7 @@
  ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=plastic&logo=Coursera&logoColor=white)
  </a>
  ![Codewars](https://img.shields.io/badge/Codewars-B1361Estyle=plastic&logo=codewars&logoColor=grey)
+ ![Codewars](https://www.codewars.com/users/Kuldyaev/badges/micro)
  ## 🌐 Socials:
  ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white)
  <a class="blank center" href="https://www.instagram.com/vyacheslavkuldyaev/#" target="_blank">
