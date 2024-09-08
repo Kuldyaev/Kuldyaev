@@ -6,10 +6,10 @@
  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white)
  <a href="https://getbootstrap.com" terget="_blank">
  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white)
- </a>
+ </a> 
  <a href="https://tailwindcss.com" target="_blank">
  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
- </a>
+ </a> 
  ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=plastic&logo=styled-components&logoColor=white)
  <br/>
  <a href="https://react.dev" target="_blank">
