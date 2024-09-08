@@ -90,7 +90,9 @@
  <a href="https://www.coursera.org/account/accomplishments/verify/KDXW39NNTV8M?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course" target="_blank">
  ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=plastic&logo=Coursera&logoColor=white)
  </a>
+ <a href="https://www.codewars.com/users/Kuldyaev" target="_blank">
  ![Codewars](https://img.shields.io/badge/Codewars-B1361Estyle=plastic&logo=codewars&logoColor=grey)
+ </a>
  ![Codewars](https://www.codewars.com/users/Kuldyaev/badges/micro)
  ## 🌐 Socials:
  ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white)
