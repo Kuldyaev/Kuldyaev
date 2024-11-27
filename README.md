@@ -58,10 +58,10 @@
  ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
  </a>
  <a href="https://www.djangoproject.com" target="_blank" class="blank center">
-   ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white)
+ ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white)
  </a>
  <a href="https://flask.palletsprojects.com" target="_blank" class="blank center" >
-  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white)
+ ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white)
  </a>
  <a  href="https://numpy.org" target="_blank" class="blank center"  >
  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
@@ -78,14 +78,14 @@
  <a href="https://notepad-plus-plus.org" target="_blank">
  ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=plastic&logo=notepad%2b%2b&logoColor=black)
  </a>
-  <a class="blank center" href="https://github.com/Kuldyaev" target="_blank" >
-   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
- </a> <br/>
+ <a class="blank center" href="https://github.com/Kuldyaev" target="_blank" >
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
+ </a><br/>
  <a href="https://www.udacity.com/certificate/LUJP5RRK" target="_blank" style="text-decoration: none !important">
  ![Udacity](https://img.shields.io/badge/Udacity-grey?style=plastic&logo=udacity&logoColor=15B8E6)
  </a>
  <a class="blank center" href="https://www.duolingo.com/profile/Slava_lion" target="_blank" style="text-decoration: none !important">
-   ![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=plastic&logo=Duolingo&logoColor=white)
+ ![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=plastic&logo=Duolingo&logoColor=white)
  </a>
  <a href="https://www.coursera.org/account/accomplishments/verify/KDXW39NNTV8M?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course" target="_blank" style="text-decoration: none !important">
  ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=plastic&logo=Coursera&logoColor=white)
