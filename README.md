@@ -109,7 +109,7 @@
  ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=plastic&logo=Facebook&logoColor=white)
  ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=plastic&logo=reddit&logoColor=white)
  ![Viber](https://img.shields.io/badge/Viber-8B66A9?style=plastic&logo=viber&logoColor=white)
- <a href="http://www.skype.com" target="_blank" style="text-decoration: none;" >
+ <a href="http://www.skype.com" target="_blank" style={textDecoration: 'none'} >
  ![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=plastic&logo=Skype&logoColor=white)
  </a>
   
