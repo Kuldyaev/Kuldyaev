@@ -81,13 +81,13 @@
  <a class="blank center" href="https://github.com/Kuldyaev" target="_blank" >
    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
  </a> <br/>
- <a href="https://www.udacity.com/certificate/LUJP5RRK" target="_blank">
+ <a href="https://www.udacity.com/certificate/LUJP5RRK" target="_blank" style="text-decoration: none !important">
  ![Udacity](https://img.shields.io/badge/Udacity-grey?style=plastic&logo=udacity&logoColor=15B8E6)
  </a>
- <a class="blank center" href="https://www.duolingo.com/profile/Slava_lion" target="_blank">
+ <a class="blank center" href="https://www.duolingo.com/profile/Slava_lion" target="_blank" style="text-decoration: none !important">
    ![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=plastic&logo=Duolingo&logoColor=white)
  </a>
- <a href="https://www.coursera.org/account/accomplishments/verify/KDXW39NNTV8M?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course" target="_blank">
+ <a href="https://www.coursera.org/account/accomplishments/verify/KDXW39NNTV8M?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course" target="_blank" style="text-decoration: none !important">
  ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=plastic&logo=Coursera&logoColor=white)
  </a>
  <a href="https://www.codewars.com/users/Kuldyaev" target="_blank" style="text-decoration: none !important">
@@ -109,7 +109,7 @@
  ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=plastic&logo=Facebook&logoColor=white)
  ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=plastic&logo=reddit&logoColor=white)
  ![Viber](https://img.shields.io/badge/Viber-8B66A9?style=plastic&logo=viber&logoColor=white)
- <a href="http://www.skype.com" target="_blank" style={{textDecoration: 'none'}} >
+ <a href="http://www.skype.com" target="_blank" style="text-dDecoration: none" >
  ![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=plastic&logo=Skype&logoColor=white)
  </a>
   
