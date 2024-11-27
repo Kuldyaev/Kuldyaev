@@ -69,25 +69,25 @@
  <a href="https://www.arduino.cc" target="_blank">
  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white)
  </a>
- ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=plastic&logo=Raspberry-Pi)
- <br/>
- <a href="https://code.visualstudio.com" target="_blank">
- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white)
- </a>
- ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=plastic&logo=atom&logoColor=white)
- <a href="https://notepad-plus-plus.org" target="_blank">
- ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=plastic&logo=notepad%2b%2b&logoColor=black)
- </a>
- <a class="blank center" href="https://github.com/Kuldyaev" target="_blank" >
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
- </a><br/>
- <a href="https://www.udacity.com/certificate/LUJP5RRK" target="_blank" style="text-decoration: none !important">
- ![Udacity](https://img.shields.io/badge/Udacity-grey?style=plastic&logo=udacity&logoColor=15B8E6)
- </a>
- <a class="blank center" href="https://www.duolingo.com/profile/Slava_lion" target="_blank" style="text-decoration: none !important">
- ![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=plastic&logo=Duolingo&logoColor=white)
- </a>
- <a href="https://www.coursera.org/account/accomplishments/verify/KDXW39NNTV8M?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course" target="_blank" style="text-decoration: none !important">
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=plastic&logo=Raspberry-Pi)
+<br/>
+<a href="https://code.visualstudio.com" target="_blank">
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white)
+</a>
+![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=plastic&logo=atom&logoColor=white)
+<a href="https://notepad-plus-plus.org" target="_blank">
+![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=plastic&logo=notepad%2b%2b&logoColor=black)
+</a>
+<a class="blank center" href="https://github.com/Kuldyaev" target="_blank" >
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
+</a><br/>
+<a href="https://www.udacity.com/certificate/LUJP5RRK" target="_blank" style="text-decoration: none !important">
+![Udacity](https://img.shields.io/badge/Udacity-grey?style=plastic&logo=udacity&logoColor=15B8E6)
+</a>
+<a class="blank center" href="https://www.duolingo.com/profile/Slava_lion" target="_blank" style="text-decoration: none !important">
+![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=plastic&logo=Duolingo&logoColor=white)
+</a>
+<a href="https://www.coursera.org/account/accomplishments/verify/KDXW39NNTV8M?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course" target="_blank" style="text-decoration: none !important">
  ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=plastic&logo=Coursera&logoColor=white)
  </a>
  <a href="https://www.codewars.com/users/Kuldyaev" target="_blank" style="text-decoration: none !important">
@@ -98,10 +98,10 @@
  ## 🌐 Socials:
  ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white)
  <a class="blank center" href="https://www.instagram.com/vyacheslavkuldyaev/#" target="_blank">
-   ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white)
+ ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white)
  </a>
  <a class="blank center" href="https://www.linkedin.com/in/viacheslav-kuldyaev-3b7a07a5" target="_blank">
-  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)
+ ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)
  </a>
  ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=plastic&logo=whatsapp&logoColor=white)
  ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=plastic&logo=zoom&logoColor=white)
