@@ -73,8 +73,9 @@
 <br/>
 <a href="https://code.visualstudio.com" target="_blank">
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white)
-</a><a href="https://code.visualstudio.com" target="_blank">
-![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=plastic&logo=atom&logoColor=white)
+</a> 
+<a href="https://atom-editor.cc" target="_blank">
+ ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=plastic&logo=atom&logoColor=white)
 </a>
 <a href="https://notepad-plus-plus.org" target="_blank">
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=plastic&logo=notepad%2b%2b&logoColor=black)
