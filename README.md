@@ -63,6 +63,7 @@
  <a href="https://flask.palletsprojects.com" target="_blank" class="blank center" >
  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white)
  </a>
+ ![FastAPI]( https://img.shields.io/badge/fastapi-109989?style=plastic&logo=FASTAPI&logoColor=white)
  <a  href="https://numpy.org" target="_blank" class="blank center"  >
  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
  </a> <br/>
