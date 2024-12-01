@@ -60,6 +60,7 @@
  <a href="https://www.djangoproject.com" target="_blank" class="blank center">
  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white)
  </a>
+![DjangoREST]( https://img.shields.io/badge/django%20rest-ff1709?style=plastic&logo=django&logoColor=white)
  <a href="https://flask.palletsprojects.com" target="_blank" class="blank center" >
  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white)
  </a>
