@@ -113,8 +113,7 @@
  ![Viber](https://img.shields.io/badge/Viber-8B66A9?style=plastic&logo=viber&logoColor=white)
  <a href="http://www.skype.com" target="_blank" style="text-dDecoration: none" >
  ![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=plastic&logo=Skype&logoColor=white)
- </a>
- 
+ </a> 
   
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Kuldyaev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
