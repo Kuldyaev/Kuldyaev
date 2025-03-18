@@ -87,7 +87,7 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white)
 <br/>
 <a href="https://www.udacity.com/certificate/LUJP5RRK" target="_blank" style="text-decoration: none !important">
-   ![Udacity](https://img.shields.io/badge/Udacity-grey?style=plastic&logo=udacity&logoColor=15B8E6)   
+![Udacity](https://img.shields.io/badge/Udacity-grey?style=plastic&logo=udacity&logoColor=15B8E6)   
 </a>
 <a class="blank center" href="https://www.duolingo.com/profile/Slava_lion" target="_blank" style="text-decoration: none !important">
 ![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=plastic&logo=Duolingo&logoColor=white)
