@@ -84,6 +84,8 @@
 </a><a class="blank center" href="https://github.com/Kuldyaev" target="_blank" >
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
 </a><br/>
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+<br/>
 <a href="https://www.udacity.com/certificate/LUJP5RRK" target="_blank" style="text-decoration: none !important">
    ![Udacity](https://img.shields.io/badge/Udacity-grey?style=plastic&logo=udacity&logoColor=15B8E6)   
 </a>
