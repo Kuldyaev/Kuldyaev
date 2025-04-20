@@ -100,8 +100,7 @@
  </a>
  <br/> 
  ![Codewars](https://www.codewars.com/users/Kuldyaev/badges/micro)
- 
- ## 🌐 Socials:
+  ## 🌐 Socials:
  ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white)
  <a class="blank center" href="https://www.instagram.com/vyacheslavkuldyaev/#" target="_blank">
  ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white)
