@@ -20,7 +20,7 @@
  ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white)
  </a>
  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white)
- ![Zustand](https://img.shields.io/badge/Zustand-8A2BE2?style=plastic&logo=codewars&logoColor=white)
+ ![Zustand](https://img.shields.io/badge/Zustand-8A2BE2?style=plastic&logo=javascript&logoColor=white)
  ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D)
  ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=plastic&logo=vuetify&logoColor=AEDDFF)
  ![Angular](https://img.shields.io/badge/Angular-0F0F11?style=plastic&logo=angular&logoColor=white)
