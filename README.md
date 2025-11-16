@@ -38,6 +38,7 @@
  <a href="https://swagger.io" target="_blank">
  ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=plastic&logo=swagger&logoColor=white)
  </a>
+ ![Apollo GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-311C87?logo=apollographql&logoColor=fff)]
  <a href="https://git-scm.com" target="_blank">
  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
  </a>
