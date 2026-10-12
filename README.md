@@ -120,6 +120,7 @@
  ![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=plastic&logo=Skype&logoColor=white)
  </a> 
  
+ 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Kuldyaev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kuldyaev&theme=tokyonight&hide_border=false)
